@@ -1,13 +1,8 @@
 
-<style>
- body {
-  color: gray;
-}
-</style>
 
 
 body{
-background-color: lightyellow;　←背景色を「lightyellow」にする
+background-color: lightgreen;　←背景色を「lightyellow」にする
 }
 .title{
 font-weight: bold;　←文字の太さを太く
